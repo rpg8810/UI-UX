@@ -1,0 +1,14 @@
+Audio File 1 (Aditya):
+Hi, this is Aditya from iOS. And currently I'm reviewing the UI UX project sent to me by Abhinandan Mishra, 315, PRN number 1262242964. Now, it's a really interesting take on the current cab booking systems... (Participant noted fixed pricing, detailed fare breakdown, server-side payments, and green color scheme as positive changes).
+
+Audio File 2 (Himanshu):
+Haan toh maine review kiya hai... (Participant praised the sleek design, clean layout compared to Rapido, and the prominent ride confirmation details, but suggested moving 'recent trips' above other services).
+
+Audio File 3 (Naman):
+My name is Naman Sharma... (Participant found the Figma app smoother than original Ola, praised the clear wordings and flow, and preferred the high-contrast colors over the original pale colors).
+
+Audio File 4 (Parth):
+I'm using the Ola app... (Participant disliked Ola's fluctuating prices and praised the modified app for its fixed fare system, coupon visibility, and fare breakdown).
+
+Audio File 5 (Ravneesh):
+Hello, this is Ravneesh M... (Participant appreciated the simplistic color design, the transparent fare structure showing the actual total fare, and preferred the Cab-In system over Ola).
